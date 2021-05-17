@@ -14,3 +14,7 @@ Given a list of words, we need to remove any words that are prefixes of other wo
 - [ ] [suffix](https://github.com/BurntSushi/suffix)
 - [ ] [BTreeSet](https://doc.rust-lang.org/std/collections/struct.BTreeSet.html)
 - [ ] Something I haven't thought of! Create an issue or PR.
+
+## Alternate ideas
+
+Maybe I should make this project more general by making competing `starts_with` functions?
